@@ -1,5 +1,5 @@
 {
-    "name": "chrisbjr/api-guard",
+    "name": "Continued-llc/api-guard",
     "description": "A simple way of authenticating your APIs with API keys using Laravel",
     "keywords": [
         "api",
@@ -22,8 +22,8 @@
     ],
     "require": {
         "php": ">=5.6.4",
-        "illuminate/support": "^5.3.0",
-        "illuminate/database": "^5.3.0",
+        "illuminate/support": "^6.0",
+        "illuminate/database": "^6.0",
         "ellipsesynergie/api-response": "*"
     },
     "require-dev": {
